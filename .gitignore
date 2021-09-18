@@ -4,3 +4,6 @@ node_modules
 .vscode/
 
 public
+
+# Local Netlify folder
+.netlify
